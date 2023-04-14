@@ -87,12 +87,15 @@ a{
 }
 
 #area_principal{
+    border: 1px solid red;
     width: 920px;
     margin: 0 auto;
     padding: 15px;
 }
 
+
 #area_postagens{
+    border: 1px solid green;
     width: 660px;
     padding: 5px;
     float: left;
@@ -111,6 +114,7 @@ a{
 }
 
 #area_lateral{
+    border: 1px solid red;
     float: right;
     width: 240px;
 }
